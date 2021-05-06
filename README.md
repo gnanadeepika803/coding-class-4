@@ -1,2 +1,2 @@
 # coding-class-5
-This is a demonstration of linking local repository to global repository.
+This is my 5th coding class.
